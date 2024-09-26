@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachaudhari03&label=Profile%20views&color=0e75b6&style=flat" alt="adityachaudhari03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityachaudhari03" alt="adityachaudhari03" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adichau03" target="blank"><img src="https://img.shields.io/twitter/follow/adichau03?logo=twitter&style=for-the-badge" alt="adichau03" /></a> </p>
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://aditya-portfolio03.netlify.app](https://aditya-portfolio03.netlify.app)
